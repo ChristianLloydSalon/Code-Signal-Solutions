@@ -1,1 +1,1 @@
-# Code-Signal-Solutions
+# Code Signal Solutions
